@@ -3,7 +3,7 @@
 - company: Unsupervise Relation Extraction
   position:  
   duration: August, 2021 &mdash; Present
-  summary: Relation extraction (RE), RE aims to extract relation from raw text. For example,given a sentence, “<e1> Jobs </e1> is the founder of <e2> Apple </e2>,” the RE model shouldpredict therelationasfounded by. 
+  summary: Relation extraction (RE), RE aims to extract relation from raw text. For example,given a sentence, “<e1> Jobs </e1> is the founder of <e2> Apple </e2>” the RE model should predict the relation as founded by. 
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
