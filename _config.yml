@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "tywang Page"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -14,7 +14,7 @@ resume_name:                    "Tianyin Wang"
 resume_title:                   "About me"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "https://lzhengisme.github.io/files/cv_linzheng_jul2021v2.pdf"
+resume_contact_email:           "https://andrew-wong-ty.github.io/file/mycv.pdf"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(+86)13668976019"
