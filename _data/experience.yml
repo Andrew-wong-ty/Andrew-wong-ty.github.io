@@ -2,8 +2,8 @@
 # VP of Global Communications
 - company: Unsupervise Relation Extraction
   position:  
-  duration: August, 2021 &mdash; Present
-  summary: Relation extraction (RE), RE aims to extract relation from raw text. For example,given a sentence, “<e1> Jobs </e1> is the founder of <e2> Apple </e2>” the RE model should predict the relation as founded by. 
+  duration: August, 2021 &mdash; Mar, 2022
+  summary: Given a context where two entities appear, the Relation Extraction (RE) task aims to predict the semantic relation (if any) holding between the two entities, and RE task is based on only needing a few examples (few-shot) or no examples (zero-shot). <br> &bull; Main idea is to generate high confidence pseudo labels <br> &bull; The method is based on a combination of large-scale entailment models, noisy data detection, and entity typing methods (entity's type is crucial in RE). <br> &bull;In our experience on TACRED and Wiki80, we attained 58% and 44% F1(micro) in zero-shot setting, respectively.
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
