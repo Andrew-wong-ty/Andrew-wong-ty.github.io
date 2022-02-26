@@ -3,7 +3,7 @@
 - company: Unsupervise Relation Extraction
   position:  
   duration: August, 2021 &mdash; Mar, 2022
-  summary: <b>Task:</b> Given a context where two entities appear, the Relation Extraction (RE) task aims to predict the semantic relation (if any) holding between the two entities, and RE task is based on only needing a few examples (few-shot) or no examples (zero-shot). <ul class="resume-item-list"><li>The method is based on a combination of entailment models, noisy data detection, and entity typing method</li><li>In our experience on TACRED and Wiki80, we attained 58% and 44% F1(micro) in zero-shot setting, respectively</li></ul>
+  summary: <b>Task:</b> Given a context where two entities appear, the Relation Extraction (RE) task aims to predict the semantic relation (if any) holding between the two entities, and RE task is based on only needing a few examples (few-shot) or no examples (zero-shot). <ul class="resume-item-list"><li>The method is based on large-scale entailment models</li><li>In our experience on TACRED and Wiki80, we attained 58% and 44% F1(micro) in zero-shot setting, respectively</li></ul>
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
