@@ -7,7 +7,7 @@
 
 - company: Text augmentation based on VLP
   position:  
-  duration: Apr,2022 &mdash; ?, University of Washington
+  duration: Apr,2022 &mdash;? , University of Washington
   summary: <b>Task:</b> Based on VLP(vision-language pretraining model) Projecting a text to a image then project it back to sentence level or representation, then we get the augmentation we want.
 
 # # Director of Digital Stratgy
