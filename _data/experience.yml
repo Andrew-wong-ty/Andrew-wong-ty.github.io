@@ -3,12 +3,13 @@
 - company: Unsupervise Relation Extraction
   position:  
   duration: August, 2021 &mdash; June, 2022
-  summary: <b>Task:</b> Given a context where two entities appear, the Relation Extraction (RE) task aims to predict the semantic relation (if any) holding between the two entities, and RE task is based on only needing a few examples (few-shot) or no examples (zero-shot). <ul class="resume-item-list"><li>Main idea is to generate high confidence pseudo labels</li><li>The method is based on a combination of large-scale entailment models, noisy data detection, and entity typing methods (entity's type is crucial in RE)</li><li>In our experience on TACRED and Wiki80, we attained 58% and 44% F1(micro) in zero-shot setting, respectively</li></ul>
+  summary: <b>Topic::</b> Zero-shot(without any training examples) relation extraction <ul class="resume-item-list"><li>The traditional way to use silver data is to use noise-aware algorithms on silver data. However, experimental results show that it is not the best way. We propose to detect clean data first, then use clean data to finetune the pretrained model, and finally use the finetuned model to perform inference. </li><li>In our experiment on TACRED and Wiki80, the proposed method can outperform the baseline by 11%.</li></ul>
 
 - company: Text augmentation Via Vision Translation
   position:  
   duration: April,2022 &mdash;? , University of Washington
-  summary: <b>Task:</b> Given a context where two entities appear, the Relation Extraction (RE) task aims to predict the semantic relation (if any) holding between the two entities, and RE task is based on only needing a few examples (few-shot) or no examples (zero-shot). <ul class="resume-item-list"><li>Main idea is to generate high confidence pseudo labels</li><li>The method is based on a combination of large-scale entailment models, noisy data detection, and entity typing methods (entity's type is crucial in RE)</li><li>In our experience on TACRED and Wiki80, we attained 58% and 44% F1(micro) in zero-shot setting, respectively</li></ul>
+  summary: <b>Task::</b>A novel way of text augmentation::, based on VLP(vision-language pretraining model) Projecting a text to a image then project it back to sentence level or representation, then we get the augmentation we want.
+
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
 #   position: Director of Digital Strategy
