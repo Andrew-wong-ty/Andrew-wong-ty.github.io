@@ -12,7 +12,8 @@ by 11%.</li></ul>
 - company: Text augmentation Via Vision Translation
   position:  
   duration: April,2022 &mdash;? , University of Washington
-  summary: <b>Task:</b> Based on VLP(vision-language pretraining model) Projecting a text to a image then project it back to sentence level or representation, then we get the augmentation we want.
+  summary: <b>Task:</b>A novel way of text augmentation
+  :, based on VLP(vision-language pretraining model) Projecting a text to a image then project it back to sentence level or representation, then we get the augmentation we want.
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
