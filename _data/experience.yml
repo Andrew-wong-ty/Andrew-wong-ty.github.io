@@ -3,12 +3,12 @@
 - company: Unsupervise Relation Extraction
   position:  
   duration: August, 2021 &mdash; June, 2022
-  summary: <b>Topic::</b> Zero-shot(without any training examples) relation extraction <ul class="resume-item-list"><li>The traditional way to use silver data is to use noise-aware algorithms on silver data. However, experimental results show that it is not the best way. We propose to detect clean data first, then use clean data to finetune the pretrained model, and finally use the finetuned model to perform inference. </li><li>In our experiment on TACRED and Wiki80, the proposed method can outperform the baseline by 11%.</li></ul>
+  summary: <b>Topic:</b> Zero-shot(without any training examples) relation extraction <ul class="resume-item-list"><li>The traditional way to use silver data is to use noise-aware algorithms on silver data. However, experimental results show that it is not the best way. We propose to detect clean data first, then use clean data to finetune the pretrained model, and finally use the finetuned model to perform inference. </li><li>In our experiment on TACRED and Wiki80, the proposed method can outperform the baseline by 11%.</li></ul>
 
 - company: Text augmentation Via Vision Translation
   position:  
   duration: April,2022 &mdash;? , University of Washington
-  summary: <b>Task::</b>A novel way of text augmentation::, based on VLP(vision-language pretraining model) Projecting a text to a image then project it back to sentence level or representation, then we get the augmentation we want.
+  summary: <b>Task:</b>A novel way of text augmentation:, based on VLP(vision-language pretraining model) Projecting a text to a image then project it back to sentence level or representation, then we get the augmentation we want.
 
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council

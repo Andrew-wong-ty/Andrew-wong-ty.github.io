@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Tianyin Wang"
+resume_name:                    "Tianyin Wang (王天寅)"
 resume_title:                   "About me"
 
 # used for the contact button in _layouts/resume.html
@@ -36,7 +36,7 @@ resume_looking_for_work:        "yes"
 resume_section_interests:       true
 resume_section_experience:      true
 resume_section_education:       false
-resume_section_projects:        false
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
