@@ -35,7 +35,7 @@ Most of the content configuration will take place in the `/_layouts/resume.html`
 
 ### Configuring with your own domain name
 
-To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
+To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic. 
 
 ### Themes
 
